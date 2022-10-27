@@ -84,15 +84,10 @@
   - React+TypeScript でのフロントエンド開発、Cloud Functions を使った日次バッチ処理の開発などを経験
 
 - 技術記事
-  - Zenn
-    - 学生時代から投稿スタート
-    - https://zenn.dev/b1essk
-  - Qiita
-    - 学生時代から投稿スタート
-    - https://qiita.com/Kazuhiro_Mimaki
-  - Note
-    - 主に月報を発信。
-    - https://note.com/b1essk
+  - GitHub: https://github.com/Kazuhiro-Mimaki
+  - Zenn: https://zenn.dev/b1essk
+  - Qiita: https://qiita.com/Kazuhiro_Mimaki
+  - Note: https://note.com/b1essk
 
 ## 意欲・興味
 
