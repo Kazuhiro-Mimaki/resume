@@ -65,6 +65,7 @@
     - 単体テスト
     - Docker を使ったコンテナでの開発
     - SDK を使った AWS サービスとの連携実装(S3 や ECS など)
+    - マイクロサービスの開発
   - AWS のサービスを利用したインフラの整備
     - VPC/Subnet/Security group 等によるプライベートネットワークの構築
     - Cognito による認証処理
@@ -89,7 +90,8 @@
   - React+TypeScript でのフロントエンド開発
     - SendGrid を使ったメール配信処理の実装
     - Drag&Drop の実装
-    - レガシーなライブラリの一部アップデート
+    - 日付に関するライブラリのアップデート
+    - Storybook を用いたスナップショットテスト
 - 技術記事
   - GitHub: https://github.com/Kazuhiro-Mimaki
   - Zenn: https://zenn.dev/b1essk
